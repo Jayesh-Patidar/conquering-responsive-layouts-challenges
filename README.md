@@ -1,0 +1,1 @@
+This repository contains the solutions for the challenges of Conquering Responsive Layout.
