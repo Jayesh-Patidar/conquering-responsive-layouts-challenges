@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: #23424A;
+  color: #FFFFFF;
+}
+
+.inner-container {
+  width: 80%;
+  max-width: 1015px;
+  margin: 0 auto;
+  padding: 148px 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.intro {
+  width: 50%;
+}
+
+.inner-container span {
+  display: inline-block;
+  background-color: #38CFD9;
+  padding: 16px 48px;
+  border-radius: 31px;
+  color: #072A2D;
+  font-size: 21px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
